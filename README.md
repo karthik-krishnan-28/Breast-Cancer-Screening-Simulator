@@ -1,5 +1,5 @@
 # Breast-Cancer-Screening-Simulator
-Shiny app visualizer for agent-based model in R simulating rural breast cancer screening uptake, incorporating race, poverty, insurance, and access-to-care dynamics.  
+A Shiny app visualizer for agent-based model in R simulating rural breast cancer screening uptake, incorporating race, poverty, insurance, and access-to-care dynamics.  
 
 This repository contains code for an app that visualizes an **agent-based model (ABM)** implemented in R to simulate breast cancer screening behaviors in rural populations. The model explores how race, poverty, insurance status, and geographic access interact to influence screening intentions and uptake over time.  
 
