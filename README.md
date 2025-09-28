@@ -22,4 +22,10 @@ This repository contains code for an app that visualizes an **agent-based model 
 Full credit for the ABM goes to Dr. Jennifer Cruz who led and owns this project, and who hired me as a collaborator (https://service.harvard.edu/people/jen-cruz). Due to the publication being in progress, Dr. Cruz's code has been witheld from this repository, and only the app code remains.
 
 ## Visualization
-The shiny app allows users to 
+![home](https://github.com/karthik-krishnan-28/Breast-Cancer-Screening-Simulator/blob/main/app-screens/sim-home.png)
+The Shiny app provides a user-friendly interface with sliders and presets to configure simulations. Example outputs include:
+- Cumulative screening uptake by time step
+  ![total-screened](https://github.com/karthik-krishnan-28/Breast-Cancer-Screening-Simulator/blob/main/app-screens/total-screened.png)
+- Proportion of newly screened agents by run
+  ![newly-screened](https://github.com/karthik-krishnan-28/Breast-Cancer-Screening-Simulator/blob/main/app-screens/proportion-newly-screened.png)
+
